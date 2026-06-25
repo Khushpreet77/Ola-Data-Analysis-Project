@@ -191,7 +191,7 @@ Vehicle categories analyzed:
 
 ## Cancellation Analysis
 
-![Cancellation Analysis](cancellation.png)
+![Cancellation Analysis](https://github.com/Khushpreet77/Ola-Data-Analysis-Project/blob/2ae5e0097357728d0026937d473752192231d85f/Cancellation.jpg)
 
 ## Ratings Analysis
 
