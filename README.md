@@ -187,7 +187,7 @@ Vehicle categories analyzed:
 
 ## Revenue Analysis
 
-![Revenue Analysis](revenue.png)
+![Revenue Analysis](https://github.com/Khushpreet77/Ola-Data-Analysis-Project/blob/6df49a3490b4beed5f96a586ecf6c0f6867467fb/Revenue.jpg)
 
 ## Cancellation Analysis
 
