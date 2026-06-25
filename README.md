@@ -195,7 +195,7 @@ Vehicle categories analyzed:
 
 ## Ratings Analysis
 
-![Ratings Analysis](ratings.png)
+![Ratings Analysis](https://github.com/Khushpreet77/Ola-Data-Analysis-Project/blob/fb97e158f9cd991264d58eba5220aceca8fa55b0/Ratings.jpg)
 
 ---
 
