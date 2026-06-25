@@ -183,7 +183,7 @@ Vehicle categories analyzed:
 
 ## Vehicle Type Analysis
 
-![Vehicle Analysis](vehicle_type.png)
+![Vehicle Analysis]([vehicle_type.png](https://github.com/Khushpreet77/Ola-Data-Analysis-Project/blob/6a4f7674b9c81f039881506c0661a2f6a52b13b2/vehicle%20type.jpg))
 
 ## Revenue Analysis
 
