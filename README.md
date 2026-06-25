@@ -179,7 +179,7 @@ Vehicle categories analyzed:
 
 ## Overall Dashboard
 
-https://github.com/Khushpreet77/Ola-Data-Analysis-Project/blob/6b4d394840075c8779c55f89d8f140239ede7494/overall.jpg
+ ![Overall Dashboard](https://github.com/Khushpreet77/Ola-Data-Analysis-Project/blob/6b4d394840075c8779c55f89d8f140239ede7494/overall.jpg)                                               
 
 ## Vehicle Type Analysis
 
